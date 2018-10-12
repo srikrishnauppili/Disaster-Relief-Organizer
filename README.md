@@ -24,9 +24,6 @@ The core features of the system include the following: <br>
 6). A SMS based claims generation system for areas with no connectivity <br>
 7). A system to verify that the claims are deprecated and no longer valid <br>
 
-Impact:
-Relief materials
-news
 Alternatives:
  anyone after hearing this idea would think that these things can be done using social networking sites ,but there are many drawbacks
 1.rumors
@@ -37,18 +34,4 @@ if a disaster happens,it us obvious that there won't be any network for at least
 so if an application is designed to allow only those people after verification to post messages for help so the people who are helping will not be cheated
 
 
-
-Uniqueness:
-
-The unique features of this application include,it can be made to work offline and false reports can be prevented 
-
-Technology:
-
-
-Glossary:
-
-Claims
-Needs
-Affected area
-The affected areas
 
